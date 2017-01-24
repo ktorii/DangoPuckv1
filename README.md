@@ -3,6 +3,6 @@ Developed in Unity and C#. Inspired by the Mario Party 2 minigame: speed hockey.
 
 How to execute:
 
-Unzip the downlaoded folder
+1) Unzip the downlaoded folder
 
-Open the executable file depending on your corresponding operating system.
+2) Open the executable file depending on your corresponding operating system.
